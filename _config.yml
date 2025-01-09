@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zhang Meiling"
-  pronouns         : # example: "she/her"  
+  pronouns         : "her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing China"
   employer         : "China Agriculture University"
