@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Zhang Meiling Lab"
 title_separator          : "-"
-name                     : "Zhang Meiling"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://ZhangMeiling-Lab.github.io
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,14 +23,13 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zhang Meiling"
-  pronouns         : "she/her"  
-  bio              : 
-
-"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing China"
   employer         : "China Agriculture University"
   uri              : # URL
   email            : "ml_zhang@cau.edu.cn" 
+
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
