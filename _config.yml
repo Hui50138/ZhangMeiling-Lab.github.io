@@ -12,7 +12,7 @@ title                    : "Zhang Meiling Lab"
 title_separator          : "-"
 name                     : "Zhang Meiling"
 description              : &description "personal description"
-url                      : "https://ZhangMeiling-Lab.github.io"
+url                      : #"https://ZhangMeiling-Lab.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
