@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Zhang Meiling Lab"
 title_separator          : "-"
-name                     : "Zhang Meiling"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "https://ZhangMeiling-Lab.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,10 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zhang Meiling"
-  pronouns         : "she/her"  
-  bio              : " Ph.D., is a young researcher and doctoral supervisor. He received his Ph.D. degree from the School of Life Sciences, Peking University in 2020, and conducted postdoctoral research at Peking University from 2020 to 2024. In 2024, he will be selected into the talent introduction plan of China Agricultural University and serve as a young researcher in the Department of Zoology and Animal Physiology of the College of Biology. His research focuses on omics detection techniques and enzyme functions for chemical modification of RNA. Up to now, he has published many papers as the first/co-first author in journals such as Nature Chemical Biology, Account of Chemical Research, Molecular Cell, Cell Research, etc.
-
-"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing China"
   employer         : "China Agriculture University"
   uri              : # URL
